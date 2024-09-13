@@ -1,5 +1,3 @@
 teste resolução do conflito
 
 teste de reversão de commit
-
-teste de reversão de commit 2
